@@ -1,0 +1,201 @@
+{
+  "elmuchoData": {
+    "calendar_elmucho_2025-03-08": {
+      "bandName": "DJ NIKITA VASILYEV",
+      "price": "4",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-28": {
+      "bandName": "El Ardo",
+      "price": "16",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-07": {
+      "bandName": "DJ NIKITA VASILYEV",
+      "price": "4",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-01": {
+      "bandName": "BeFriends",
+      "price": "15",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-22": {
+      "bandName": "DJ 100LOVE",
+      "price": "3",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-14": {
+      "bandName": "DJ DANILA BERDYSHEV",
+      "price": "2",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-15": {
+      "bandName": "Да, дорогая",
+      "price": "8",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-18": {
+      "bandName": "OzКолки",
+      "price": "18",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-21": {
+      "bandName": "The Sliders",
+      "price": "15",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_elmucho_2025-03-29": {
+      "bandName": "DJ SAVIN",
+      "price": "1",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    }
+  },
+  "cleverData": {
+    "calendar_clever_2025-03-22": {
+      "bandName": "Gerasim&Ko",
+      "price": "34",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false
+    },
+    "calendar_clever_2025-03-14": {
+      "bandName": "Bootleggers",
+      "price": "35",
+      "notes": "",
+      "account": true,
+      "sound": true,
+      "check": false
+    },
+    "calendar_clever_2025-03-08": {
+      "bandName": "Fenomen",
+      "price": "33",
+      "notes": "ТАМ",
+      "account": true,
+      "sound": true,
+      "check": false,
+      "eliza": true
+    },
+    "calendar_clever_2025-02-01": {
+      "bandName": "",
+      "price": "",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "myAccount": false
+    },
+    "calendar_clever_2025-03-09": {
+      "bandName": "The Sliders",
+      "price": "15",
+      "notes": "",
+      "account": false,
+      "sound": true,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_clever_2025-03-07": {
+      "bandName": "ТРОЕ",
+      "price": "15",
+      "notes": "ТУТ",
+      "account": true,
+      "sound": true,
+      "check": false,
+      "eliza": false
+    },
+    "calendar_clever_2025-03-28": {
+      "bandName": "Garvitan",
+      "price": "24",
+      "notes": "фронт",
+      "account": true,
+      "sound": true,
+      "check": false
+    },
+    "calendar_clever_2025-03-16": {
+      "bandName": "Irish Session",
+      "price": "",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false
+    },
+    "calendar_clever_2025-03-29": {
+      "bandName": "Givara",
+      "price": "28",
+      "notes": "",
+      "account": true,
+      "sound": true,
+      "check": false
+    },
+    "calendar_clever_2025-03-15": {
+      "bandName": "ПроРок",
+      "price": "28",
+      "notes": "",
+      "account": true,
+      "sound": true,
+      "check": false
+    },
+    "calendar_clever_2025-03-01": {
+      "bandName": "OzКолки",
+      "price": "18",
+      "notes": "",
+      "account": true,
+      "sound": true,
+      "check": false,
+      "eliza": true
+    },
+    "calendar_clever_2025-03-21": {
+      "bandName": "Trigger Band",
+      "price": "60",
+      "notes": "",
+      "account": true,
+      "sound": true,
+      "check": false
+    }
+  },
+  "notes": {
+    "editable": "Заметка 1<br>Заметка 2",
+    "locked": "РЕДАКЦИЯ 10.03"
+  }
+}
