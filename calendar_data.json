@@ -45,6 +45,15 @@
       "check": false,
       "eliza": false
     },
+    "calendar_elmucho_2025-03-31": {
+      "bandName": "ПроРок",
+      "price": "28",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
     "calendar_elmucho_2025-03-14": {
       "bandName": "DJ DANILA BERDYSHEV",
       "price": "2",
