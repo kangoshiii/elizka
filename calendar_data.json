@@ -9,6 +9,15 @@
       "check": false,
       "eliza": false
     },
+    "calendar_elmucho_2025-03-24": {
+      "bandName": "Garvitan",
+      "price": "24",
+      "notes": "",
+      "account": false,
+      "sound": false,
+      "check": false,
+      "eliza": false
+    },
     "calendar_elmucho_2025-03-28": {
       "bandName": "El Ardo",
       "price": "16",
